@@ -3,5 +3,9 @@ file add new line
 another change
 
 create a new branch is qiuck and simple
+<<<<<<< Updated upstream
 add merge stashtest
 bug fixed
+=======
+add merge stashtest
+>>>>>>> Stashed changes
