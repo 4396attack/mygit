@@ -3,3 +3,4 @@ file add new line
 another change
 
 create a new branch is qiuck and simple
+add merge
