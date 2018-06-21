@@ -1,3 +1,6 @@
 [submodule "gitskill"]
 	path = gitskill
 	url = git@github.com:4396attack/gitskill.git
+[submodule "bookstore"]
+	path = bookstore
+	url = git@github.com:4396attack/bookstore.git
