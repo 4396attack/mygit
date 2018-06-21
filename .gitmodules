@@ -1,0 +1,3 @@
+[submodule "gitskill"]
+	path = gitskill
+	url = git@github.com:4396attack/gitskill.git
